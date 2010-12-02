@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "drumpresets">
+	<slot number = "1">
+		<patcher name = "bpdrum">
+			<pattr name = "number" value = "36" />
+			<pattr name = "toggle" value = "1" />
+			<pattr name = "toggle[10]" value = "0" />
+			<pattr name = "toggle[11]" value = "0" />
+			<pattr name = "toggle[12]" value = "0" />
+			<pattr name = "toggle[13]" value = "1" />
+			<pattr name = "toggle[14]" value = "0" />
+			<pattr name = "toggle[15]" value = "0" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "0" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "0" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "0" />
+			<pattr name = "toggle[7]" value = "1" />
+			<pattr name = "toggle[8]" value = "1" />
+			<pattr name = "toggle[9]" value = "1" />
+		</patcher>
+		<patcher name = "bpdrum[1]">
+			<pattr name = "number" value = "38" />
+			<pattr name = "toggle" value = "0" />
+			<pattr name = "toggle[10]" value = "0" />
+			<pattr name = "toggle[11]" value = "1" />
+			<pattr name = "toggle[12]" value = "0" />
+			<pattr name = "toggle[13]" value = "0" />
+			<pattr name = "toggle[14]" value = "0" />
+			<pattr name = "toggle[15]" value = "0" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "0" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "1" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "0" />
+			<pattr name = "toggle[7]" value = "0" />
+			<pattr name = "toggle[8]" value = "0" />
+			<pattr name = "toggle[9]" value = "0" />
+		</patcher>
+		<patcher name = "bpdrum[2]">
+			<pattr name = "number" value = "44" />
+			<pattr name = "toggle" value = "1" />
+			<pattr name = "toggle[10]" value = "0" />
+			<pattr name = "toggle[11]" value = "1" />
+			<pattr name = "toggle[12]" value = "0" />
+			<pattr name = "toggle[13]" value = "0" />
+			<pattr name = "toggle[14]" value = "0" />
+			<pattr name = "toggle[15]" value = "1" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "0" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "1" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "0" />
+			<pattr name = "toggle[7]" value = "0" />
+			<pattr name = "toggle[8]" value = "0" />
+			<pattr name = "toggle[9]" value = "1" />
+		</patcher>
+		<patcher name = "bpdrum[3]">
+			<pattr name = "number" value = "37" />
+			<pattr name = "toggle" value = "0" />
+			<pattr name = "toggle[10]" value = "1" />
+			<pattr name = "toggle[11]" value = "0" />
+			<pattr name = "toggle[12]" value = "0" />
+			<pattr name = "toggle[13]" value = "0" />
+			<pattr name = "toggle[14]" value = "1" />
+			<pattr name = "toggle[15]" value = "0" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "1" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "0" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "1" />
+			<pattr name = "toggle[7]" value = "0" />
+			<pattr name = "toggle[8]" value = "0" />
+			<pattr name = "toggle[9]" value = "1" />
+		</patcher>
+		<pattr name = "number" value = "125" />
+	</slot>
+	<slot number = "2">
+		<patcher name = "bpdrum">
+			<pattr name = "number" value = "36" />
+			<pattr name = "toggle" value = "1" />
+			<pattr name = "toggle[10]" value = "0" />
+			<pattr name = "toggle[11]" value = "0" />
+			<pattr name = "toggle[12]" value = "0" />
+			<pattr name = "toggle[13]" value = "1" />
+			<pattr name = "toggle[14]" value = "0" />
+			<pattr name = "toggle[15]" value = "0" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "0" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "0" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "0" />
+			<pattr name = "toggle[7]" value = "1" />
+			<pattr name = "toggle[8]" value = "1" />
+			<pattr name = "toggle[9]" value = "1" />
+		</patcher>
+		<patcher name = "bpdrum[1]">
+			<pattr name = "number" value = "38" />
+			<pattr name = "toggle" value = "0" />
+			<pattr name = "toggle[10]" value = "0" />
+			<pattr name = "toggle[11]" value = "1" />
+			<pattr name = "toggle[12]" value = "0" />
+			<pattr name = "toggle[13]" value = "0" />
+			<pattr name = "toggle[14]" value = "0" />
+			<pattr name = "toggle[15]" value = "0" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "0" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "1" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "0" />
+			<pattr name = "toggle[7]" value = "0" />
+			<pattr name = "toggle[8]" value = "0" />
+			<pattr name = "toggle[9]" value = "0" />
+		</patcher>
+		<patcher name = "bpdrum[2]">
+			<pattr name = "number" value = "44" />
+			<pattr name = "toggle" value = "1" />
+			<pattr name = "toggle[10]" value = "0" />
+			<pattr name = "toggle[11]" value = "1" />
+			<pattr name = "toggle[12]" value = "0" />
+			<pattr name = "toggle[13]" value = "1" />
+			<pattr name = "toggle[14]" value = "0" />
+			<pattr name = "toggle[15]" value = "1" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "1" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "1" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "1" />
+			<pattr name = "toggle[7]" value = "0" />
+			<pattr name = "toggle[8]" value = "0" />
+			<pattr name = "toggle[9]" value = "1" />
+		</patcher>
+		<patcher name = "bpdrum[3]">
+			<pattr name = "number" value = "37" />
+			<pattr name = "toggle" value = "1" />
+			<pattr name = "toggle[10]" value = "1" />
+			<pattr name = "toggle[11]" value = "0" />
+			<pattr name = "toggle[12]" value = "1" />
+			<pattr name = "toggle[13]" value = "1" />
+			<pattr name = "toggle[14]" value = "1" />
+			<pattr name = "toggle[15]" value = "0" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "1" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "1" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "1" />
+			<pattr name = "toggle[7]" value = "1" />
+			<pattr name = "toggle[8]" value = "1" />
+			<pattr name = "toggle[9]" value = "1" />
+		</patcher>
+		<pattr name = "number" value = "200" />
+	</slot>
+	<slot number = "3">
+		<patcher name = "bpdrum">
+			<pattr name = "number" value = "35" />
+			<pattr name = "toggle" value = "1" />
+			<pattr name = "toggle[10]" value = "0" />
+			<pattr name = "toggle[11]" value = "0" />
+			<pattr name = "toggle[12]" value = "0" />
+			<pattr name = "toggle[13]" value = "1" />
+			<pattr name = "toggle[14]" value = "0" />
+			<pattr name = "toggle[15]" value = "0" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "0" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "0" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "0" />
+			<pattr name = "toggle[7]" value = "1" />
+			<pattr name = "toggle[8]" value = "1" />
+			<pattr name = "toggle[9]" value = "1" />
+		</patcher>
+		<patcher name = "bpdrum[1]">
+			<pattr name = "number" value = "39" />
+			<pattr name = "toggle" value = "0" />
+			<pattr name = "toggle[10]" value = "0" />
+			<pattr name = "toggle[11]" value = "1" />
+			<pattr name = "toggle[12]" value = "0" />
+			<pattr name = "toggle[13]" value = "0" />
+			<pattr name = "toggle[14]" value = "0" />
+			<pattr name = "toggle[15]" value = "0" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "0" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "1" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "0" />
+			<pattr name = "toggle[7]" value = "0" />
+			<pattr name = "toggle[8]" value = "0" />
+			<pattr name = "toggle[9]" value = "0" />
+		</patcher>
+		<patcher name = "bpdrum[2]">
+			<pattr name = "number" value = "48" />
+			<pattr name = "toggle" value = "1" />
+			<pattr name = "toggle[10]" value = "0" />
+			<pattr name = "toggle[11]" value = "1" />
+			<pattr name = "toggle[12]" value = "0" />
+			<pattr name = "toggle[13]" value = "1" />
+			<pattr name = "toggle[14]" value = "0" />
+			<pattr name = "toggle[15]" value = "1" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "1" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "1" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "1" />
+			<pattr name = "toggle[7]" value = "0" />
+			<pattr name = "toggle[8]" value = "0" />
+			<pattr name = "toggle[9]" value = "1" />
+		</patcher>
+		<patcher name = "bpdrum[3]">
+			<pattr name = "number" value = "41" />
+			<pattr name = "toggle" value = "1" />
+			<pattr name = "toggle[10]" value = "1" />
+			<pattr name = "toggle[11]" value = "0" />
+			<pattr name = "toggle[12]" value = "1" />
+			<pattr name = "toggle[13]" value = "1" />
+			<pattr name = "toggle[14]" value = "1" />
+			<pattr name = "toggle[15]" value = "0" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "1" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "1" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "1" />
+			<pattr name = "toggle[7]" value = "1" />
+			<pattr name = "toggle[8]" value = "1" />
+			<pattr name = "toggle[9]" value = "1" />
+		</patcher>
+		<pattr name = "number" value = "100" />
+	</slot>
+	<slot number = "4">
+		<patcher name = "bpdrum">
+			<pattr name = "number" value = "35" />
+			<pattr name = "toggle" value = "1" />
+			<pattr name = "toggle[10]" value = "0" />
+			<pattr name = "toggle[11]" value = "1" />
+			<pattr name = "toggle[12]" value = "1" />
+			<pattr name = "toggle[13]" value = "1" />
+			<pattr name = "toggle[14]" value = "0" />
+			<pattr name = "toggle[15]" value = "0" />
+			<pattr name = "toggle[1]" value = "1" />
+			<pattr name = "toggle[2]" value = "0" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "0" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "0" />
+			<pattr name = "toggle[7]" value = "1" />
+			<pattr name = "toggle[8]" value = "1" />
+			<pattr name = "toggle[9]" value = "1" />
+		</patcher>
+		<patcher name = "bpdrum[1]">
+			<pattr name = "number" value = "39" />
+			<pattr name = "toggle" value = "0" />
+			<pattr name = "toggle[10]" value = "0" />
+			<pattr name = "toggle[11]" value = "1" />
+			<pattr name = "toggle[12]" value = "0" />
+			<pattr name = "toggle[13]" value = "0" />
+			<pattr name = "toggle[14]" value = "1" />
+			<pattr name = "toggle[15]" value = "0" />
+			<pattr name = "toggle[1]" value = "1" />
+			<pattr name = "toggle[2]" value = "0" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "1" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "1" />
+			<pattr name = "toggle[7]" value = "0" />
+			<pattr name = "toggle[8]" value = "0" />
+			<pattr name = "toggle[9]" value = "0" />
+		</patcher>
+		<patcher name = "bpdrum[2]">
+			<pattr name = "number" value = "48" />
+			<pattr name = "toggle" value = "1" />
+			<pattr name = "toggle[10]" value = "0" />
+			<pattr name = "toggle[11]" value = "1" />
+			<pattr name = "toggle[12]" value = "0" />
+			<pattr name = "toggle[13]" value = "1" />
+			<pattr name = "toggle[14]" value = "0" />
+			<pattr name = "toggle[15]" value = "1" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "1" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "1" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "1" />
+			<pattr name = "toggle[7]" value = "0" />
+			<pattr name = "toggle[8]" value = "0" />
+			<pattr name = "toggle[9]" value = "1" />
+		</patcher>
+		<patcher name = "bpdrum[3]">
+			<pattr name = "number" value = "41" />
+			<pattr name = "toggle" value = "1" />
+			<pattr name = "toggle[10]" value = "1" />
+			<pattr name = "toggle[11]" value = "1" />
+			<pattr name = "toggle[12]" value = "1" />
+			<pattr name = "toggle[13]" value = "1" />
+			<pattr name = "toggle[14]" value = "1" />
+			<pattr name = "toggle[15]" value = "0" />
+			<pattr name = "toggle[1]" value = "0" />
+			<pattr name = "toggle[2]" value = "1" />
+			<pattr name = "toggle[3]" value = "0" />
+			<pattr name = "toggle[4]" value = "1" />
+			<pattr name = "toggle[5]" value = "0" />
+			<pattr name = "toggle[6]" value = "1" />
+			<pattr name = "toggle[7]" value = "1" />
+			<pattr name = "toggle[8]" value = "1" />
+			<pattr name = "toggle[9]" value = "1" />
+		</patcher>
+		<pattr name = "number" value = "300" />
+	</slot>
+</pattrstorage>
+

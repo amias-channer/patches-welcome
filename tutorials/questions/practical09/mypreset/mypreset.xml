@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "mypreset">
+	<slot number = "1">
+		<pattr name = "slider" value = "0" />
+		<pattr name = "slider[1]" value = "41" />
+		<pattr name = "slider[2]" value = "82" />
+		<pattr name = "slider[3]" value = "127" />
+		<patcher name = "asubby">
+			<pattr name = "slider[4]" value = "68" />
+			<pattr name = "slider[5]" value = "82" />
+			<pattr name = "slider[6]" value = "58" />
+			<pattr name = "slider[7]" value = "80" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "slider" value = "127" />
+		<pattr name = "slider[1]" value = "97" />
+		<pattr name = "slider[2]" value = "52" />
+		<pattr name = "slider[3]" value = "0" />
+		<patcher name = "asubby">
+			<pattr name = "slider[4]" value = "89" />
+			<pattr name = "slider[5]" value = "60" />
+			<pattr name = "slider[6]" value = "82" />
+			<pattr name = "slider[7]" value = "56" />
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<pattr name = "slider" value = "49" />
+		<pattr name = "slider[1]" value = "97" />
+		<pattr name = "slider[2]" value = "73" />
+		<pattr name = "slider[3]" value = "48" />
+		<patcher name = "asubby">
+			<pattr name = "slider[4]" value = "43" />
+			<pattr name = "slider[5]" value = "83" />
+			<pattr name = "slider[6]" value = "51" />
+			<pattr name = "slider[7]" value = "10" />
+		</patcher>
+	</slot>
+</pattrstorage>
+
